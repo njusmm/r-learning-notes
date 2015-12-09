@@ -2,3 +2,5 @@
 
 * [获取帮助](help.md)
 * [常见统计量](stat_magnitude.md)
+* [常见分布函数](dist.md)
+ * [F分布](F_dist.md)
