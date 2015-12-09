@@ -9,4 +9,3 @@ qf(p, df1, df2)
 ```
 P{F(df1, df2)(x) = p}
 ```
-$$\alpha$$
